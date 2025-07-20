@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+
+superengine/build/
+chess_ai.egg-info/
+
+
+
+# === CLEANUP ADDED BY SCRIPT ===
+.venv/
+venv/
+ort-env-py311/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+runs/
+checkpoints/
+nets/
+selfplay.log
+train.log
+onnxruntime/
+superengine/nets/
+.vscode/
+
